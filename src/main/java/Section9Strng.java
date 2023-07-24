@@ -4,6 +4,7 @@ public class Section9Strng {
         public static void main (String[] args) {
 
             String courseName = "Learn Java for Beginners Crash Course";
+
 //            String message = "Welcome to";
 //
 ////            //concatenate
