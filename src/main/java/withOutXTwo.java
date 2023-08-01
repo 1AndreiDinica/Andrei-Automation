@@ -17,13 +17,13 @@ public class withOutXTwo {
 
             System.out.println("Original string is:" + xContains);
 
-            if (xContains.indexOf('x') == 0) {
+            if (xContains.indexOf("x") == 0) {
 
                 xContains = xContains.substring(1);
 
 
             }
-            if (xContains.indexOf('x') == 1) {
+            if (xContains.indexOf("x") == 1) {
 
                 xContains = xContains.substring(0) + xContains.substring(2);
             }
