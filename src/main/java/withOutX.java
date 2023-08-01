@@ -6,7 +6,7 @@ public class withOutX {
     // and otherwise return the string unchanged.
     public static void main (String[] args) {
 
-        String withoutX = "" ;
+        String withoutX = "xbadx" ;
 
 
 
