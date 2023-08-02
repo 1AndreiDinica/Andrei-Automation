@@ -2,7 +2,7 @@ public class makeMiddleThreeArray {
 
     public static void main (String[] args){
 
-        int [] A = {1,2,3};
+        int [] A = {1,2,3,4,5,6,7,8,9};
 
         int[] midOne = new int [] {A[(A.length/2) - 1]};
         int [] midTwo = new int [] {A[(A.length/2)]};
