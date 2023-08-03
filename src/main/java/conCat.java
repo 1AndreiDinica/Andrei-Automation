@@ -2,7 +2,7 @@ public class conCat {
 
     public static void main(String[] args){
 
-        String aplha = "cat";
+        String aplha = "catz";
         String beta = "tank";
 
 
